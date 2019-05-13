@@ -1,0 +1,108 @@
+{
+  "reports": [
+    {
+      "id": "test-client-test product-Sun Dec 02 2018 20:50:10 GMT+0300 (East Africa Time)",
+      "date": "2018-11-30T17:50:10.878Z",
+      "client": "test client",
+      "product": "test product",
+      "importer": "test importer",
+      "importerCost": " 5000",
+      "cost": "6000",
+      "paid": "0",
+      "pending": 12000,
+      "profit": 2000,
+      "quantity": "2"
+    },
+    {
+      "id": "hjgdsf-fskhsf-Sun Dec 02 2018 20:50:46 GMT+0300 (East Africa Time)",
+      "date": "2018-11-17T17:50:46.566Z",
+      "client": "hjgdsfhgjshdfkslfhksajflksjdfklsjfklsjflksjdfklsjdfioskfsjklhgdsjhdskjhdskjfhdjkshfjksdhfjkdshfjdshfksdjfsjfksjfslkfjlsdkjfslkd",
+      "product": "fskhsfhfkjsdhfodisfuoadsf",
+      "importer": "xcxbsdfjhdskfhsdoifudosifdsopfisdo;fkdslffdskjfdskljdsilusdogudfg",
+      "importerCost": " 50000",
+      "cost": "60000",
+      "paid": "1000",
+      "pending": 1199000,
+      "profit": 200000,
+      "quantity": "20"
+    },
+    {
+      "id": "fhfgjhfshsf-test product-Sun Dec 02 2018 20:51:06 GMT+0300 (East Africa Time)",
+      "date": "2018-12-02T17:51:06.544Z",
+      "client": "fhfgjhfshsf",
+      "product": "test product",
+      "importer": "gv ltd",
+      "importerCost": " 5000",
+      "cost": "6000",
+      "paid": "12000",
+      "pending": 36000,
+      "profit": 8000,
+      "quantity": "8"
+    },
+    {
+      "id": "fhfgjhfshsf-jkhekw-Sun Dec 02 2018 21:19:00 GMT+0300 (East Africa Time)",
+      "date": "2018-11-28T18:19:00.983Z",
+      "client": "fhfgjhfshsf",
+      "product": "jkhekw",
+      "importer": "sgsdf",
+      "importerCost": " 5000",
+      "cost": "6000",
+      "paid": "12000",
+      "pending": 0,
+      "profit": 2000,
+      "quantity": "2"
+    },
+    {
+      "id": "Odur-pharmacies-fdsgydfhsf-Sun Dec 02 2018 22:01:28 GMT+0300 (East Africa Time)",
+      "date": "2017-12-02T19:01:28.579Z",
+      "client": "Odur-pharmacies",
+      "product": "fdsgydfhsf",
+      "importer": "sfksksls",
+      "importerCost": " 6000",
+      "cost": "6000",
+      "paid": "0",
+      "pending": 12000,
+      "profit": 0,
+      "quantity": "2"
+    },
+    {
+      "id": "ghmj-ytgjh-Sat Dec 08 2018 01:09:31 GMT+0300 (East Africa Time)",
+      "date": "2018-12-07T22:09:31.805Z",
+      "client": "ghmj",
+      "product": "ytgjh",
+      "importer": "yguhkjh",
+      "importerCost": " 5000",
+      "cost": "6000",
+      "paid": "5400",
+      "pending": 150600,
+      "profit": 26000,
+      "quantity": "26"
+    },
+    {
+      "id": "fhfgjhfshsf-fskhsf-Sat Dec 08 2018 01:53:54 GMT+0300 (East Africa Time)",
+      "date": "2018-12-07T22:53:54.642Z",
+      "client": "fhfgjhfshsf",
+      "product": "fskhsf",
+      "importer": "xcxb",
+      "importerCost": " 4000",
+      "cost": "6000",
+      "paid": "2000",
+      "pending": 10000,
+      "profit": 4000,
+      "quantity": "2"
+    },
+    {
+      "id": "numack-aerius-Sun Jan 13 2019 18:31:46 GMT+0300 (East Africa Time)",
+      "date": "2019-01-13T15:31:46.722Z",
+      "client": "numack",
+      "product": "aerius",
+      "importer": "guardian health",
+      "importerCost": " 18000",
+      "cost": "25000",
+      "paid": "50000",
+      "pending": 0,
+      "profit": 14000,
+      "quantity": "2"
+    }
+  ]
+}
